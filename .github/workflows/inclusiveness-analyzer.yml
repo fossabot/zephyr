@@ -21,3 +21,4 @@ jobs:
       uses: microsoft/InclusivenessAnalyzer@v1.0.1
       with:
         excludeUnchangedFiles: false
+        excludeTerms: ninja
