@@ -19,3 +19,5 @@ jobs:
 
     - name: Inclusiveness Analyzer
       uses: microsoft/InclusivenessAnalyzer@v1.0.1
+      with:
+        excludeUnchangedFiles: false
