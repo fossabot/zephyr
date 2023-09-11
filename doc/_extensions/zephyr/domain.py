@@ -140,11 +140,9 @@ class ProcessRelatedCodeSamplesNode(SphinxPostTransform):
             ]
 
             if len(code_samples) > 0:
-                admonition = nodes.admonition()
-                admonition += nodes.title(text="Related code samples")
-                admonition["collapsible"] = "" # used by sphinx-immaterial theme
-                admonition["classes"].append("related-code-samples")
-                admonition["classes"].append("dropdown") # used by sphinx-togglebutton extension
+                sidebar = nodes.sidebar()
+                sidebar += nodes.title(text="Related code samples")
+                sidebar["classes"].append("related-code-samples")
                 sample_dl = nodes.definition_list()
 
                 for code_sample in sorted(code_samples, key=lambda x: x["name"]):
@@ -165,10 +163,10 @@ class ProcessRelatedCodeSamplesNode(SphinxPostTransform):
                     sample_dli += term
                     sample_dli += definition
                     sample_dl += sample_dli
-                admonition += sample_dl
+                sidebar += sample_dl
 
-                # replace node with the newly created admonition
-                node.replace_self(admonition)
+                # replace node with the newly created sidebar
+                node.replace_self(sidebar)
             else:
                 # remove node if there are no code samples
                 node.replace_self([])
