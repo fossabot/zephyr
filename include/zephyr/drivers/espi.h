@@ -34,9 +34,9 @@ extern "C" {
  * @brief eSPI I/O mode capabilities
  */
 enum espi_io_mode {
-	ESPI_IO_MODE_SINGLE_LINE = BIT(0),
-	ESPI_IO_MODE_DUAL_LINES = BIT(1),
-	ESPI_IO_MODE_QUAD_LINES = BIT(2),
+	ESPI_IO_MODE_SINGLE_LINE = BIT(0), /**< Single line mode */
+	ESPI_IO_MODE_DUAL_LINES = BIT(1),  /**< Dual lines mode */
+	ESPI_IO_MODE_QUAD_LINES = BIT(2),  /**< Quad lines mode */
 };
 
 /**
@@ -100,10 +100,10 @@ enum espi_io_mode {
  * over eSPI can occur if all channels are disabled or not ready
  */
 enum espi_channel {
-	ESPI_CHANNEL_PERIPHERAL = BIT(0),
-	ESPI_CHANNEL_VWIRE      = BIT(1),
-	ESPI_CHANNEL_OOB        = BIT(2),
-	ESPI_CHANNEL_FLASH      = BIT(3),
+	ESPI_CHANNEL_PERIPHERAL = BIT(0), /**< Peripheral channel */
+	ESPI_CHANNEL_VWIRE      = BIT(1), /**< Virtual wire channel */
+	ESPI_CHANNEL_OOB        = BIT(2), /**< Out of band channel */
+	ESPI_CHANNEL_FLASH      = BIT(3), /**< Flash channel */
 };
 
 /**
@@ -112,12 +112,12 @@ enum espi_channel {
  * eSPI bus event to indicate events for which user can register callbacks
  */
 enum espi_bus_event {
-	ESPI_BUS_RESET                      = BIT(0),
-	ESPI_BUS_EVENT_CHANNEL_READY        = BIT(1),
-	ESPI_BUS_EVENT_VWIRE_RECEIVED       = BIT(2),
-	ESPI_BUS_EVENT_OOB_RECEIVED         = BIT(3),
-	ESPI_BUS_PERIPHERAL_NOTIFICATION    = BIT(4),
-	ESPI_BUS_SAF_NOTIFICATION           = BIT(5),
+	ESPI_BUS_RESET                      = BIT(0), /**<  eSPI reset */
+	ESPI_BUS_EVENT_CHANNEL_READY        = BIT(1), /**<  eSPI channel ready */
+	ESPI_BUS_EVENT_VWIRE_RECEIVED       = BIT(2), /**<  eSPI virtual wire data received */
+	ESPI_BUS_EVENT_OOB_RECEIVED         = BIT(3), /**<  eSPI out of band data received */
+	ESPI_BUS_PERIPHERAL_NOTIFICATION    = BIT(4), /**<  eSPI peripheral notification */
+	ESPI_BUS_SAF_NOTIFICATION           = BIT(5), /**<  eSPI SAF notification */
 };
 
 /**
@@ -126,8 +126,8 @@ enum espi_bus_event {
  * eSPI peripheral channel event types to indicate users.
  */
 enum espi_pc_event {
-	ESPI_PC_EVT_BUS_CHANNEL_READY = BIT(0),
-	ESPI_PC_EVT_BUS_MASTER_ENABLE = BIT(1),
+	ESPI_PC_EVT_BUS_CHANNEL_READY = BIT(0), /**< eSPI peripheral channel ready */
+	ESPI_PC_EVT_BUS_MASTER_ENABLE = BIT(1), /**< eSPI peripheral channel master enable */
 };
 
 /**
