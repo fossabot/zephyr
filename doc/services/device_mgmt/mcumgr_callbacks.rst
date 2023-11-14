@@ -329,5 +329,4 @@ enable the new notification system in addition to any migrations):
 API Reference
 *************
 
-.. doxygengroup:: mcumgr_callback_api
     :inner:

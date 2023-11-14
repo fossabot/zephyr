@@ -76,4 +76,3 @@ for reference.
 API Reference
 *************
 
-.. doxygengroup:: dma_interface

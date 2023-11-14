@@ -231,5 +231,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: obj_core_apis
-.. doxygengroup:: obj_core_stats_apis

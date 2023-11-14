@@ -60,4 +60,3 @@ Here is the list of samples worth looking at:
 API Reference
 *************
 
-.. doxygengroup:: file_system_api

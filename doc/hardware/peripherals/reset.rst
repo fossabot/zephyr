@@ -25,4 +25,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: reset_controller_interface

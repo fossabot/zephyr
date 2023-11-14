@@ -139,4 +139,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: stack_apis

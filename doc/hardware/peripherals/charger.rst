@@ -25,4 +25,3 @@ Properties are set by the client one at a time using :c:func:`charger_set_prop`.
 API Reference
 *************
 
-.. doxygengroup:: charger_interface

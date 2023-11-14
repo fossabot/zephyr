@@ -9,4 +9,3 @@ USB device specific part for HID support defined in
 API Reference
 *************
 
-.. doxygengroup:: usb_hid_device_api

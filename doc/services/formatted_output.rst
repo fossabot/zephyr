@@ -184,4 +184,3 @@ Limitations and recommendations
 API Reference
 *************
 
-.. doxygengroup:: cbprintf_apis

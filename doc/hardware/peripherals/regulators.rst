@@ -24,4 +24,3 @@ controlled within the driver for the corresponding node, e.g. a sensor.
 API Reference
 **************
 
-.. doxygengroup:: regulator_interface

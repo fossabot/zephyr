@@ -150,4 +150,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: mem_slab_apis

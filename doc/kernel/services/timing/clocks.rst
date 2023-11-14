@@ -370,4 +370,3 @@ value, and should never be called iteratively in a loop.
 API Reference
 *************
 
-.. doxygengroup:: clock_apis

@@ -19,4 +19,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: clock_control_interface

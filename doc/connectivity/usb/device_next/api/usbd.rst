@@ -8,4 +8,3 @@ New USB device stack API is experimental and is subject to change without notice
 API reference
 *************
 
-.. doxygengroup:: usbd_api

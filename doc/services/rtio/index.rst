@@ -215,14 +215,11 @@ threads per peripheral. RTIO is much lower cost than that.
 API Reference
 *************
 
-.. doxygengroup:: rtio
 
 MPSC Lock-free Queue API
 ========================
 
-.. doxygengroup:: rtio_mpsc
 
 SPSC Lock-free Queue API
 ========================
 
-.. doxygengroup:: rtio_spsc

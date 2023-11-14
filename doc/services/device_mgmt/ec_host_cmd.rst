@@ -129,4 +129,3 @@ levels:
 API Reference
 *************
 
-.. doxygengroup:: ec_host_cmd_interface

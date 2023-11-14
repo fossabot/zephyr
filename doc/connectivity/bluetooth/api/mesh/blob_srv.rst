@@ -95,6 +95,5 @@ will stay suspended until the BLOB Transfer Client resumes the transfer, or the 
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_blob_srv
    :project: Zephyr
    :members:

@@ -25,4 +25,3 @@ See :zephyr:code-sample:`net-capture` sample application and
 API Reference
 *************
 
-.. doxygengroup:: net_capture

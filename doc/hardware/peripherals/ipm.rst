@@ -10,4 +10,3 @@ Overview
 API Reference
 *************
 
-.. doxygengroup:: ipm_interface

@@ -127,6 +127,5 @@ is not required to respond to this check.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_dfu_srv
    :project: Zephyr
    :members:

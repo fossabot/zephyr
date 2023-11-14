@@ -202,14 +202,11 @@ Start the USB-C subsystem:
 API reference
 *************
 
-.. doxygengroup:: _usbc_device_api
 
 SINK callback reference
 ***********************
 
-.. doxygengroup:: sink_callbacks
 
 SOURCE callback reference
 *************************
 
-.. doxygengroup:: source_callbacks

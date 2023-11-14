@@ -90,5 +90,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: b12_interface
-.. doxygengroup:: b12_emulator_backend

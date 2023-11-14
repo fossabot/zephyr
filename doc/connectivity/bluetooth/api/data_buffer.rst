@@ -7,4 +7,3 @@ Data Buffers
 API Reference
 *************
 
-.. doxygengroup:: bt_buf

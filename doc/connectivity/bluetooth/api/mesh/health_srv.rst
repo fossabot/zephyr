@@ -50,7 +50,6 @@ The remaining time for the attention period may be queried through
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_health_srv
 
 .. _bluetooth_mesh_health_faults:
 
@@ -59,4 +58,3 @@ Health faults
 
 Fault values defined by the Bluetooth mesh specification.
 
-.. doxygengroup:: bt_mesh_health_faults

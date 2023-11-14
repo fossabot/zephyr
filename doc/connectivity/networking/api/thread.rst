@@ -61,4 +61,3 @@ Zephyr's OpenThread L2 platform adaptation layer glues the external OpenThread
 stack together with Zephyr's IEEE 802.15.4 protocol agnostic driver API. This
 API is of interest to OpenThread L2 **subsystem contributors** only.
 
-.. doxygengroup:: openthread

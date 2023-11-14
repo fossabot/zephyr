@@ -13,4 +13,3 @@ and is being replaced by a new UDC driver API.
 API reference
 *************
 
-.. doxygengroup:: _usb_device_controller_api

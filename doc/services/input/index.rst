@@ -81,9 +81,7 @@ compatibility device node, for example:
 API Reference
 *************
 
-.. doxygengroup:: input_interface
 
 Input Event Definitions
 ***********************
 
-.. doxygengroup:: input_events

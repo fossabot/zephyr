@@ -35,4 +35,3 @@ that. The postfix can be set only once.
 API Reference
 *************
 
-.. doxygengroup:: net_hostname

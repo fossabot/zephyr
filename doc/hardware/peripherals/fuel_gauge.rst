@@ -46,5 +46,3 @@ The Fuel Gauge API explicitly provides no caching for its clients.
 API Reference
 *************
 
-.. doxygengroup:: fuel_gauge_interface
-.. doxygengroup:: fuel_gauge_emulator_backend

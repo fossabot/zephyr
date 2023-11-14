@@ -26,6 +26,5 @@ If present, the SAR Configuration Server model must only be instantiated on the 
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_sar_cfg_srv
    :project: Zephyr
    :members:

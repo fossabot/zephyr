@@ -12,4 +12,3 @@ UHC driver API is experimental and is subject to change without notice.
 Driver API reference
 ********************
 
-.. doxygengroup:: uhc_api

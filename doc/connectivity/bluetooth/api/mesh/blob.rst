@@ -190,6 +190,5 @@ API reference
 
 This section contains types and defines common to the BLOB Transfer models.
 
-.. doxygengroup:: bt_mesh_blob
    :project: Zephyr
    :members:

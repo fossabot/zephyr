@@ -15,4 +15,3 @@ driver to UDC driver API, or add a new driver, please use
 API reference
 *************
 
-.. doxygengroup:: udc_api

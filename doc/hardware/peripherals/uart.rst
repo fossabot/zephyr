@@ -59,7 +59,6 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: uart_interface
 
 
 .. _uart_polling_api:
@@ -67,7 +66,6 @@ API Reference
 Polling API
 ===========
 
-.. doxygengroup:: uart_polling
 
 
 .. _uart_interrupt_api:
@@ -75,7 +73,6 @@ Polling API
 Interrupt-driven API
 ====================
 
-.. doxygengroup:: uart_interrupt
 
 
 .. _uart_async_api:
@@ -83,4 +80,3 @@ Interrupt-driven API
 Asynchronous API
 ================
 
-.. doxygengroup:: uart_async

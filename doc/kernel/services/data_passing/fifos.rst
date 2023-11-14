@@ -165,4 +165,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: fifo_apis

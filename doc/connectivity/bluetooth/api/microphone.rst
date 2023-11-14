@@ -7,4 +7,3 @@ Bluetooth Microphone Control
 API Reference
 *************
 
-.. doxygengroup:: bt_gatt_micp

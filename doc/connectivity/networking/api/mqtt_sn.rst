@@ -141,4 +141,3 @@ Certain parts of the protocol are not yet supported in the library.
 API Reference
 *************
 
-.. doxygengroup:: mqtt_sn_socket

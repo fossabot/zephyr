@@ -398,93 +398,74 @@ API
 Common
 ======
 
-.. doxygengroup:: subsys_tracing_apis
 
 Threads
 =======
 
-.. doxygengroup:: subsys_tracing_apis_thread
 
 Work Queues
 ===========
 
-.. doxygengroup:: subsys_tracing_apis_work
 
 Poll
 ====
 
-.. doxygengroup:: subsys_tracing_apis_poll
 
 Semaphore
 =========
 
-.. doxygengroup:: subsys_tracing_apis_sem
 
 Mutex
 =====
 
-.. doxygengroup:: subsys_tracing_apis_mutex
 
 Condition Variables
 ===================
 
-.. doxygengroup:: subsys_tracing_apis_condvar
 
 Queues
 ======
 
-.. doxygengroup:: subsys_tracing_apis_queue
 
 FIFO
 ====
 
-.. doxygengroup:: subsys_tracing_apis_fifo
 
 LIFO
 ====
-.. doxygengroup:: subsys_tracing_apis_lifo
 
 Stacks
 ======
 
-.. doxygengroup:: subsys_tracing_apis_stack
 
 Message Queues
 ==============
 
-.. doxygengroup:: subsys_tracing_apis_msgq
 
 Mailbox
 =======
 
-.. doxygengroup:: subsys_tracing_apis_mbox
 
 Pipes
 ======
 
-.. doxygengroup:: subsys_tracing_apis_pipe
 
 Heaps
 =====
 
-.. doxygengroup:: subsys_tracing_apis_heap
 
 Memory Slabs
 ============
 
-.. doxygengroup:: subsys_tracing_apis_mslab
 
 Timers
 ======
 
-.. doxygengroup:: subsys_tracing_apis_timer
 
 Object tracking
 ===============
 
-.. doxygengroup:: subsys_tracing_object_tracking
 
 Syscalls
 ========
 
-.. doxygengroup:: subsys_tracing_apis_syscall

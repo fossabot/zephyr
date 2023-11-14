@@ -263,4 +263,3 @@ expect the values ``a=2`` and ``b=3``, and telling ``returns_int`` to return
    :language: c
    :linenos:
 
-.. doxygengroup:: ztest_mock

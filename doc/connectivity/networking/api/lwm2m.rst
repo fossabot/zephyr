@@ -750,7 +750,6 @@ required actions from the server side.
 API Reference
 *************
 
-.. doxygengroup:: lwm2m_api
 
 .. _LwM2M:
    https://www.omaspecworks.org/what-is-oma-specworks/iot/lightweight-m2m-lwm2m/

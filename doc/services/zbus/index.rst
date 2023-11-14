@@ -833,4 +833,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: zbus_apis

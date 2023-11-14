@@ -34,6 +34,5 @@ helper macro :c:macro:`BT_MESH_MODELS_METADATA_NONE` can be used instead.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_large_comp_data_srv
    :project: Zephyr
    :members:

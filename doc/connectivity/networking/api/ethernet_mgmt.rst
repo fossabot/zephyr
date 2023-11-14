@@ -30,4 +30,3 @@ when the corresponding status changes.
 API Reference
 *************
 
-.. doxygengroup:: ethernet_mgmt

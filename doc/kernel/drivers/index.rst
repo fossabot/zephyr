@@ -630,4 +630,3 @@ For these cases, DEVICE_MMIO_ROM directives may be omitted.
 API Reference
 **************
 
-.. doxygengroup:: device_model

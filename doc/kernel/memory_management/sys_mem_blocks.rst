@@ -196,4 +196,3 @@ To allocate and free memory blocks from the group:
 API Reference
 *************
 
-.. doxygengroup:: mem_blocks_apis

@@ -33,6 +33,5 @@ If present, the Private Beacon Server model must only be instantiated on the pri
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_priv_beacon_srv
    :project: Zephyr
    :members:

@@ -19,4 +19,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: dai_interface

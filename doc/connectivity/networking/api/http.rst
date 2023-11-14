@@ -74,4 +74,3 @@ more information about the library usage.
 API Reference
 *************
 
-.. doxygengroup:: http_client

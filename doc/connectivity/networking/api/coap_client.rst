@@ -81,4 +81,3 @@ The following is an example of a very simple response handling function:
 API Reference
 *************
 
-.. doxygengroup:: coap_client

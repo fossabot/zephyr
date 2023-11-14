@@ -76,4 +76,3 @@ See :zephyr:code-sample:`net-promiscuous-mode` for a more comprehensive example.
 API Reference
 *************
 
-.. doxygengroup:: promiscuous

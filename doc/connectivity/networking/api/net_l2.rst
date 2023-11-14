@@ -187,4 +187,3 @@ As all net interfaces, IEEE 802.15.4 device driver implementations will have to 
 API Reference
 *************
 
-.. doxygengroup:: net_l2

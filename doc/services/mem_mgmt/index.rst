@@ -87,4 +87,3 @@ one by renaming the property and changing its value according to the following l
 API Reference
 *************
 
-.. doxygengroup:: memory_attr_interface

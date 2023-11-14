@@ -172,4 +172,3 @@ for example :zephyr_file:`include/zephyr/net/ieee802154_mgmt.h` would be the rig
 API Reference
 *************
 
-.. doxygengroup:: net_mgmt

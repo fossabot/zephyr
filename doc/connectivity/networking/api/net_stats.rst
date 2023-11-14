@@ -35,4 +35,3 @@ show statistics information with ``net stats`` command.
 API Reference
 *************
 
-.. doxygengroup:: net_stats

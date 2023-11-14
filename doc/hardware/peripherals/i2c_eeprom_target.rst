@@ -9,4 +9,3 @@ Overview
 API Reference
 **************
 
-.. doxygengroup:: i2c_eeprom_target_api

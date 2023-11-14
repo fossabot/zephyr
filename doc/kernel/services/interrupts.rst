@@ -646,4 +646,3 @@ also exist.
 API Reference
 *************
 
-.. doxygengroup:: isr_apis

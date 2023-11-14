@@ -604,4 +604,3 @@ Developers welcome!
 API Reference
 *************
 
-.. doxygengroup:: mcumgr_mgmt_api

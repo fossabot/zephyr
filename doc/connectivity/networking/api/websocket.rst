@@ -75,4 +75,3 @@ the lifecycle(close/re-use) of tcp socket after websocket_disconnect.
 API Reference
 *************
 
-.. doxygengroup:: websocket

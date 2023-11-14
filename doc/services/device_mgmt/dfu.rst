@@ -30,7 +30,6 @@ image chunks to flash.
 API Reference
 -------------
 
-.. doxygengroup:: flash_img_api
 
 .. _mcuboot_api:
 
@@ -44,7 +43,6 @@ for the next boot.
 API Reference
 -------------
 
-.. doxygengroup:: mcuboot_api
 
 Bootloaders
 ***********

@@ -75,19 +75,16 @@ API Reference
 1-Wire data link layer
 ======================
 
-.. doxygengroup:: w1_data_link
 
 1-Wire network layer
 ====================
 
-.. doxygengroup:: w1_network
 
 1-Wire generic functions and helpers
 ====================================
 
 Functions that are not directly related to any of the networking layers.
 
-.. doxygengroup:: w1_interface
 
 
 .. _BOOK OF IBUTTON STANDARDS:

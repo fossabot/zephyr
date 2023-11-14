@@ -480,4 +480,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: mailbox_apis

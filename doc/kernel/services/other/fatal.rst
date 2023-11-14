@@ -251,4 +251,3 @@ this function for additional details and constraints.
 API Reference
 *************
 
-.. doxygengroup:: fatal_apis

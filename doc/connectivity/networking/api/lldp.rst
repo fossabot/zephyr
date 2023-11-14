@@ -20,4 +20,3 @@ For more information, see this
 API Reference
 *************
 
-.. doxygengroup:: lldp

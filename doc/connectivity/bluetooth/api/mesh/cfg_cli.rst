@@ -23,4 +23,3 @@ primary element if present in the Composition Data.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_cfg_cli

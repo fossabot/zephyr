@@ -128,4 +128,3 @@ API Reference
 .. important::
     All atomic services APIs can be used by both threads and ISRs.
 
-.. doxygengroup:: atomic_apis

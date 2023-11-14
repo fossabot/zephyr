@@ -54,4 +54,3 @@ https://github.com/siemens/qemu/tree/wip/ivshmem2
 API Reference
 *************
 
-.. doxygengroup:: ivshmem

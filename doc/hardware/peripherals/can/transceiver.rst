@@ -34,4 +34,3 @@ This structure is called a wired-AND.
 CAN Transceiver API Reference
 *****************************
 
-.. doxygengroup:: can_transceiver

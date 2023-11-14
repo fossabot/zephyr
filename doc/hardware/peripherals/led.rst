@@ -23,9 +23,7 @@ API Reference
 LED
 ===
 
-.. doxygengroup:: led_interface
 
 LED Strip
 =========
 
-.. doxygengroup:: led_strip_interface

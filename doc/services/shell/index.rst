@@ -763,4 +763,3 @@ the shell will only print the subcommands registered for this command:
 API Reference
 *************
 
-.. doxygengroup:: shell_api

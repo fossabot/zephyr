@@ -186,4 +186,3 @@ Here are some examples present in Zephyr:
 API Reference
 *************
 
-.. doxygengroup:: io_emulators

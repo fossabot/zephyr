@@ -27,4 +27,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: auxdisplay_interface

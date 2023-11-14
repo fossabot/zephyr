@@ -137,6 +137,5 @@ to false, this code would trigger a Device Key Refresh procedure.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_rpr_cli
    :project: Zephyr
    :members:

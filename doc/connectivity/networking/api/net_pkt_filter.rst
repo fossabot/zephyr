@@ -89,8 +89,5 @@ Another (less efficient) way to achieve the same result could be:
 API Reference
 *************
 
-.. doxygengroup:: net_pkt_filter
 
-.. doxygengroup:: npf_basic_cond
 
-.. doxygengroup:: npf_eth_cond

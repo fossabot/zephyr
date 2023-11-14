@@ -27,4 +27,3 @@ Currently, two types of Wi-Fi drivers are supported:
 API Reference
 *************
 
-.. doxygengroup:: wifi_mgmt

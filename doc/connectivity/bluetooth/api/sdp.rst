@@ -6,4 +6,3 @@ Service Discovery Protocol (SDP)
 API Reference
 **************
 
-.. doxygengroup:: bt_sdp

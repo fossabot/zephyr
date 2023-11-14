@@ -227,5 +227,3 @@ by the driver's configuration.
 API Reference
 **************
 
-.. doxygengroup:: sensor_interface
-.. doxygengroup:: sensor_emulator_backend

@@ -28,4 +28,3 @@ See :zephyr:code-sample:`dhcpv4-client` sample application for details.
 API Reference
 *************
 
-.. doxygengroup:: dhcpv4

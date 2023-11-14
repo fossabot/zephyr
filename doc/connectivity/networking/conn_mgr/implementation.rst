@@ -472,4 +472,3 @@ Include header file :file:`include/zephyr/net/conn_mgr_connectivity_impl.h` to a
 
 Only for use by connectivity implementations.
 
-.. doxygengroup:: conn_mgr_connectivity_impl

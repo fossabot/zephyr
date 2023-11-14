@@ -21,4 +21,3 @@ scenarios, this API can be used to change the configuration locally.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_cfg

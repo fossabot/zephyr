@@ -29,6 +29,5 @@ SRPL.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_sol_pdu_rpl_srv
    :project: Zephyr
    :members:

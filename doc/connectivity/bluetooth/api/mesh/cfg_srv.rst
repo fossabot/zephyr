@@ -20,4 +20,3 @@ must only be instantiated on the primary element.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_cfg_srv

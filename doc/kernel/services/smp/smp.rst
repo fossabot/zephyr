@@ -319,4 +319,3 @@ still decide to implement its context switching using
 API Reference
 **************
 
-.. doxygengroup:: spinlock_apis

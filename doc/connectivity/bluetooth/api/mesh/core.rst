@@ -123,4 +123,3 @@ configure another local identity for Bluetooth LE purposes before starting the c
 API reference
 **************
 
-.. doxygengroup:: bt_mesh

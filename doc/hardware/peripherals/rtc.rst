@@ -58,7 +58,6 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: rtc_interface
 
 RTC device driver test suite
 ****************************

@@ -84,4 +84,3 @@ state.
    :c:type:`onoff_manager`, with only a small reduction in functionality
    (primarily no support for the monitor API).
 
-.. doxygengroup:: resource_mgmt_onoff_apis

@@ -114,7 +114,6 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: disk_access_interface
 
 Disk Driver Configuration Options
 *********************************
@@ -126,4 +125,3 @@ Related driver configuration options:
 Disk Driver Interface
 *********************
 
-.. doxygengroup:: disk_driver_interface

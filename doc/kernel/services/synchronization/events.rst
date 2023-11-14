@@ -169,4 +169,3 @@ Related configuration options:
 API Reference
 **************
 
-.. doxygengroup:: event_apis

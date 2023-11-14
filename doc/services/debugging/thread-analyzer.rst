@@ -84,4 +84,3 @@ Configure this module using the following options.
 API documentation
 *****************
 
-.. doxygengroup:: thread_analyzer

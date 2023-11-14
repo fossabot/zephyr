@@ -7,4 +7,3 @@ Hands Free Profile (HFP)
 API Reference
 *************
 
-.. doxygengroup:: bt_hfp

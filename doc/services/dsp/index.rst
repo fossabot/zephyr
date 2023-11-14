@@ -57,7 +57,6 @@ them to update ``DSP_DATA`` and ``DSP_STATIC_DATA`` in :file:`include/zephyr/dsp
 API Reference
 *************
 
-.. doxygengroup:: math_dsp
 
 .. _subsys/dsp/Kconfig: https://github.com/zephyrproject-rtos/zephyr/blob/main/subsys/dsp/Kconfig
 .. _subsys/dsp/CMakeLists.txt: https://github.com/zephyrproject-rtos/zephyr/blob/main/subsys/dsp/CMakeLists.txt

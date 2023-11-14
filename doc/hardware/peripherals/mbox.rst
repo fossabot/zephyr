@@ -15,4 +15,3 @@ is providing one or more channels, each one targeting one other CPU cluster
 API Reference
 *************
 
-.. doxygengroup:: mbox_interface

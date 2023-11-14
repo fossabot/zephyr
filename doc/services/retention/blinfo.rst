@@ -131,4 +131,3 @@ API Reference
 Bootloader information API
 ==========================
 
-.. doxygengroup:: bootloader_info_interface

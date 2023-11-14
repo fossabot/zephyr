@@ -40,4 +40,3 @@ See :zephyr:code-sample:`dns-resolve` sample application for details.
 API Reference
 *************
 
-.. doxygengroup:: dns_resolve

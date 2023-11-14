@@ -97,4 +97,3 @@ nodes, where one node represents the list tracking struct.
 Doubly-linked List API Reference
 --------------------------------
 
-.. doxygengroup:: doubly-linked-list_apis

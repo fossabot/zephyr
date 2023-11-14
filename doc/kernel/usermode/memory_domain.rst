@@ -443,4 +443,3 @@ API Reference
 
 The following memory domain APIs are provided by :zephyr_file:`include/zephyr/kernel.h`:
 
-.. doxygengroup:: mem_domain_apis

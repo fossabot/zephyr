@@ -24,4 +24,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: peci_interface

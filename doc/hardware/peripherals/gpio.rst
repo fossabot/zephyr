@@ -17,4 +17,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: gpio_interface

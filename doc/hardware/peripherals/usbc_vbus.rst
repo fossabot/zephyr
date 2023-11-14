@@ -27,4 +27,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: usbc_vbus_api

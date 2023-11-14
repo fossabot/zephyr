@@ -6,4 +6,3 @@ Network time representation in the network stack
 API Reference
 *************
 
-.. doxygengroup:: net_time

@@ -46,7 +46,6 @@ IEEE 802.15.4 API Overview
 Gives an introduction and overview over the whole IEEE 802.15.4 subsystem and
 all of its APIs, configuration and user interfaces for all audiences.
 
-.. doxygengroup:: ieee802154
 
 
 .. _ieee802154_mgmt_api:
@@ -61,7 +60,6 @@ typical shell, socket, Kconfig and devicetree APIs that can be accessed through
 Zephyr's generic subsystem-independent documentation. Look out for
 IEEE802154/ieee802154 prefixes there.
 
-.. doxygengroup:: ieee802154_mgmt
 
 
 .. _ieee802154_driver_api:
@@ -71,7 +69,6 @@ IEEE 802.15.4 Driver API
 
 This is the main API of interest to IEEE 802.15.4 **driver developers**.
 
-.. doxygengroup:: ieee802154_driver
 
 
 .. _ieee802154_l2_api:
@@ -84,7 +81,6 @@ drivers will ever access directly. It is called internally by Zephyr's upper
 network layers (L3+), its socket and network context abstractions. This API is
 therefore of interest to IEEE 802.15.4 **subsystem contributors** only.
 
-.. doxygengroup:: ieee802154_l2
 
 OpenThread L2 Adaptation Layer API
 ==================================

@@ -27,6 +27,5 @@ doesn't allow to send a postponed response, for example from a work queue.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_op_agg_srv
    :project: Zephyr
    :members:

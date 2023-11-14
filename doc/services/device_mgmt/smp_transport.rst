@@ -197,4 +197,3 @@ CRC16 polynomial is 0x1021 and initial value is 0.
 API Reference
 *************
 
-.. doxygengroup:: mcumgr_transport_smp

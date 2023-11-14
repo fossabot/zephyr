@@ -236,4 +236,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: pipe_apis

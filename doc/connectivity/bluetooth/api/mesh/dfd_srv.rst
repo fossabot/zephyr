@@ -36,6 +36,5 @@ for reading and writing the firmware image.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_dfd_srv
    :project: Zephyr
    :members:

@@ -38,4 +38,3 @@ Note that the later can also disconnect channel instances created by servers.
 API Reference
 *************
 
-.. doxygengroup:: bt_l2cap

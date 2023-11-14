@@ -22,4 +22,3 @@ fault values.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_health_cli

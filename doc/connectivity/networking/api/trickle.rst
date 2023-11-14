@@ -21,4 +21,3 @@ robust, energy efficient, simple, and scalable manner.
 API Reference
 *************
 
-.. doxygengroup:: trickle

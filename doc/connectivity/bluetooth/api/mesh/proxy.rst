@@ -61,4 +61,3 @@ advertisement can be configured by the On-Demand Private Proxy Client model.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_proxy

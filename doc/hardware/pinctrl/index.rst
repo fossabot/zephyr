@@ -491,12 +491,10 @@ The example below contains a complete example of a device driver that uses the
 Pin Control API
 ****************
 
-.. doxygengroup:: pinctrl_interface
 
 Dynamic pin control
 ====================
 
-.. doxygengroup:: pinctrl_interface_dynamic
 
 
 Other reference material

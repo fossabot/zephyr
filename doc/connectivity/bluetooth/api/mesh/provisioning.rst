@@ -187,4 +187,3 @@ should use a static OOB value and OOB public key transfer.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_prov

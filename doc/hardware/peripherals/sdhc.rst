@@ -47,4 +47,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: sdhc_interface

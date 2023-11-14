@@ -359,4 +359,3 @@ contiguity at all, it just advances the cursor via
 API Reference
 *************
 
-.. doxygengroup:: net_pkt

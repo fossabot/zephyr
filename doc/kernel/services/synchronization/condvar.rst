@@ -135,4 +135,3 @@ Related configuration options:
 API Reference
 **************
 
-.. doxygengroup:: condvar_apis

@@ -451,7 +451,6 @@ API reference
 Running tests
 =============
 
-.. doxygengroup:: ztest_test
 
 Assertions
 ==========
@@ -470,7 +469,6 @@ Example output for a failed macro from
     Assertion failed at main.c:62: test_get_single_buffer: Invalid refcount (buf->ref not equal to 2)
     Aborted at unit test function
 
-.. doxygengroup:: ztest_assert
 
 
 Expectations
@@ -498,7 +496,6 @@ The output will look something like:
        Expectation failed at main.c:63: test_get_single_buffer: Invalid refcount (buf->ref not equal to 1337)
     FAIL - test_get_single_buffer in 0.0 seconds
 
-.. doxygengroup:: ztest_expect
 
 Assumptions
 ===========
@@ -518,13 +515,11 @@ Example output for a failed macro from
         Assumption failed at main.c:62: test_get_single_buffer: Invalid refcount (buf->ref not equal to 2)
      SKIP - test_get_single_buffer in 0.0 seconds
 
-.. doxygengroup:: ztest_assume
 
 
 Ztress
 ======
 
-.. doxygengroup:: ztest_ztress
 
 
 .. _mocking-fff:
@@ -607,7 +602,6 @@ For example
 FFF Extensions
 **************
 
-.. doxygengroup:: fff_extensions
 
 
 .. _FFF: https://github.com/meekrosoft/fff

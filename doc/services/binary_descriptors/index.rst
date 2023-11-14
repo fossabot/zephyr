@@ -122,4 +122,3 @@ For more information refer to ``west bindesc --help`` or the :ref:`documentation
 API Reference
 *************
 
-.. doxygengroup:: bindesc_define

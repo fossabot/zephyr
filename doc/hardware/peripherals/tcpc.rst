@@ -43,9 +43,6 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: usb_type_c
-.. doxygengroup:: usb_type_c_port_controller_api
-.. doxygengroup:: usb_power_delivery
 
 .. _tcpc-specification:
    https://www.usb.org/document-library/usb-type-cr-port-controller-interface-specification

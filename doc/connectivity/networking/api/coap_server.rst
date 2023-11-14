@@ -244,4 +244,3 @@ links to other resources hosted in that server.
 API Reference
 *************
 
-.. doxygengroup:: coap_service

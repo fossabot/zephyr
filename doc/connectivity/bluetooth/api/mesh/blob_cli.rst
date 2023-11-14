@@ -125,6 +125,5 @@ cancelled. The end of the transfer is communicated to the application through th
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_blob_cli
    :project: Zephyr
    :members:

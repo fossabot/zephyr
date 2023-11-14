@@ -323,15 +323,12 @@ The Settings subsystem APIs are provided by ``settings.h``:
 
 API for general settings usage
 ==============================
-.. doxygengroup:: settings
 
 API for key-name processing
 ===========================
-.. doxygengroup:: settings_name_proc
 
 API for runtime settings manipulation
 =====================================
-.. doxygengroup:: settings_rt
 
 API of backend interface
 ========================

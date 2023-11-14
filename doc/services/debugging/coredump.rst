@@ -364,6 +364,4 @@ the following needs to be done:
 API documentation
 *****************
 
-.. doxygengroup:: coredump_apis
 
-.. doxygengroup:: arch-coredump

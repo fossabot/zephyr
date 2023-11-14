@@ -188,7 +188,6 @@ Connectivity monitoring API
 
 Include header file :file:`include/zephyr/net/conn_mgr_monitoring.h` to access these.
 
-.. doxygengroup:: conn_mgr
 
 .. _conn_mgr_control:
 
@@ -430,7 +429,6 @@ Connectivity control API
 
 Include header file :file:`include/zephyr/net/conn_mgr_connectivity.h` to access these.
 
-.. doxygengroup:: conn_mgr_connectivity
 
 .. _conn_mgr_control_api_bulk:
 
@@ -443,4 +441,3 @@ You can restrict these functions to operate only on non-:ref:`ignored <conn_mgr_
 
 Include header file :file:`include/zephyr/net/conn_mgr_connectivity.h` to access these.
 
-.. doxygengroup:: conn_mgr_connectivity_bulk

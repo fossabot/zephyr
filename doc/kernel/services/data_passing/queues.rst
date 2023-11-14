@@ -20,4 +20,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: queue_apis

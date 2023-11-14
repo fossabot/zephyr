@@ -128,9 +128,7 @@ API Reference
 
 The NVS subsystem APIs are provided by ``nvs.h``:
 
-.. doxygengroup:: nvs_data_structures
 
-.. doxygengroup:: nvs_high_level_api
 
 .. comment
    not documenting

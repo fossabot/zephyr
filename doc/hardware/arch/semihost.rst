@@ -62,7 +62,6 @@ arguments and return codes, see the `ARM Github documentation`_.
 API Reference
 *************
 
-.. doxygengroup:: semihost
 
 .. _ARM Github documentation: https://github.com/ARM-software/abi-aa/blob/main/semihosting/semihosting.rst
 .. _RISC-V Github documentation: https://github.com/riscv/riscv-semihosting-spec/blob/main/riscv-semihosting-spec.adoc

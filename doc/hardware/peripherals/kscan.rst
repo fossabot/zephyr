@@ -28,4 +28,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: kscan_interface

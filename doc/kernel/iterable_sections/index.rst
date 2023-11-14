@@ -65,4 +65,3 @@ The data can then be accessed using :c:macro:`STRUCT_SECTION_FOREACH`.
 API Reference
 *************
 
-.. doxygengroup:: iterable_section_apis

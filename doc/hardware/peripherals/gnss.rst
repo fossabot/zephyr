@@ -42,9 +42,7 @@ Related configuration options:
 Navigation Reference
 ********************
 
-.. doxygengroup:: navigation
 
 GNSS API Reference
 ******************
 
-.. doxygengroup:: gnss_interface

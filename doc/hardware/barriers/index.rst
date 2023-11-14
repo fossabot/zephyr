@@ -3,4 +3,3 @@
 Barriers API
 ************
 
-.. doxygengroup:: barrier_apis

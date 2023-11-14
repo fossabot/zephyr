@@ -215,9 +215,7 @@ API Reference
 Retention system API
 ====================
 
-.. doxygengroup:: retention_api
 
 Boot mode interface
 ===================
 
-.. doxygengroup:: boot_mode_interface

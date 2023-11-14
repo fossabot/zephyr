@@ -18,4 +18,3 @@ succeed if the BBRAM is in a valid state and the operation is bounded to the mem
 API Reference
 *************
 
-.. doxygengroup:: bbram_interface

@@ -23,4 +23,3 @@ for sending and receiving network data.
 API Reference
 *************
 
-.. doxygengroup:: net_core

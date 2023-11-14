@@ -193,9 +193,7 @@ API Reference
 IPC service API
 ===============
 
-.. doxygengroup:: ipc_service_api
 
 IPC service backend API
 =======================
 
-.. doxygengroup:: ipc_service_backend

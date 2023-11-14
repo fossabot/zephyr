@@ -59,7 +59,6 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: i2c_interface
 
 .. _i2c-specification:
    https://www.nxp.com/docs/en/user-guide/UM10204.pdf

@@ -18,4 +18,3 @@ Related configuration options:
 API Reference
 *************
 
-.. doxygengroup:: audio_codec_interface

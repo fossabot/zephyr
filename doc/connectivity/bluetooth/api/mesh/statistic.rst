@@ -16,4 +16,3 @@ An application can read out and clean up statistics at any time.
 API reference
 *************
 
-.. doxygengroup:: bt_mesh_stat

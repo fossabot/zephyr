@@ -28,7 +28,6 @@ The modem backend will return a pointer to its internal modem_pipe
 structure when initialized, which will be used to interact with the
 backend through the modem pipe API.
 
-.. doxygengroup:: modem_pipe
 
 Modem PPP
 *********
@@ -39,7 +38,6 @@ and receives network packets. These network packets have to be wrapped
 in PPP frames before being transported via a modem backend. This module
 performs said wrapping.
 
-.. doxygengroup:: modem_ppp
 
 Modem CMUX
 **********
@@ -50,4 +48,3 @@ bi-directional streams of data, called DLCI channels. The module
 attaches to a single modem backend, exposing multiple modem backends,
 each representing a DLCI channel.
 
-.. doxygengroup:: modem_cmux

@@ -19,4 +19,3 @@ in :ref:`gptp_interface` implementation.
 API Reference
 *************
 
-.. doxygengroup:: ptp_time

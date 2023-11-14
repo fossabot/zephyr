@@ -15,4 +15,3 @@ are sent and received by the Bluetooth HCI driver.
 API Reference
 *************
 
-.. doxygengroup:: hci_raw

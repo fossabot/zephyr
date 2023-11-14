@@ -56,4 +56,3 @@ implemented and controlled.
 Cache API
 *********
 
-.. doxygengroup:: cache_interface

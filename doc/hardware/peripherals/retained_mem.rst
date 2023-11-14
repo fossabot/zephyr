@@ -35,4 +35,3 @@ other.
 API Reference
 *************
 
-.. doxygengroup:: retained_mem_interface

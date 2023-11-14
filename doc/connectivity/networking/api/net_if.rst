@@ -121,4 +121,3 @@ interface is ready to be used by the application.
 API Reference
 *************
 
-.. doxygengroup:: net_if

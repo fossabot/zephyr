@@ -34,6 +34,5 @@ Samples
 API Reference
 *************
 
-.. doxygengroup:: modbus
 
 .. _`MODBUS Protocol Specifications`: https://www.modbus.org/specs.php

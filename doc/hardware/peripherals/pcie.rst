@@ -10,4 +10,3 @@ Overview
 API Reference
 *************
 
-.. doxygengroup:: pcie_host_interface

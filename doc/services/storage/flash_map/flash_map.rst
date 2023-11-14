@@ -107,4 +107,3 @@ using :c:func:`flash_area_open` and DTS node label:
 API Reference
 *************
 
-.. doxygengroup:: flash_area_api

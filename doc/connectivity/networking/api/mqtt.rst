@@ -169,4 +169,3 @@ An example of how to use TLS with MQTT is also present in
 API Reference
 *************
 
-.. doxygengroup:: mqtt_socket
