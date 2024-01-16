@@ -1,0 +1,40 @@
+# Copyright (c) 2024 Benjamin Cabé <benjamin@zephyrproject.org>
+# SPDX-License-Identifier: Apache-2.0
+
+description: SN74HC138 3-to-8 decoder based GPIO expander
+
+compatible: "ti,sn74hc138"
+
+include: [gpio-controller.yaml, base.yaml]
+
+properties:
+  reg:
+    required: true
+
+  "#gpio-cells":
+    const: 2
+
+  ngpios:
+    type: int
+    required: true
+    const: 8
+    description: Number of GPIOs supported
+
+  input-a-gpios:
+    type: phandle-array
+    required: true
+    description: Pin used to control the A (least significant bit) input of the decoder
+
+  input-b-gpios:
+    type: phandle-array
+    required: true
+    description: Pin used to control the B input of the decoder
+
+  input-c-gpios:
+    type: phandle-array
+    required: true
+    description: Pin used to control the C (most significant bit) input of the decoder
+
+gpio-cells:
+  - pin
+  - flags

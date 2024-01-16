@@ -1,0 +1,7 @@
+# M5Stack Cardputer board configuration
+
+# Copyright (c) 2024 Benjamin Cabé <benjamin@zephyrproject.org>
+# SPDX-License-Identifier: Apache-2.0
+
+config SHIELD_M5STACK_CARDPUTER
+	def_bool $(shields_list_contains,m5stack_cardputer)

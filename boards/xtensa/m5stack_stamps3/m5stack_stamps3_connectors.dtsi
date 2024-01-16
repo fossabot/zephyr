@@ -44,5 +44,6 @@
 m5stack_stamps3_uart0: &uart0 {};
 m5stack_stamps3_i2c0: &i2c0 {};
 m5stack_stamps3_i2c1: &i2c1 {};
+m5stack_stamps3_spi2: &spi2 {};
 m5stack_stamps3_clkout0: &mcpwm0 {};
 m5stack_stamps3_spilcd: &spi2 {};

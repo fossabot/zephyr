@@ -207,7 +207,7 @@ static int gpio_kbd_matrix_init(const struct device *dev)
 			ret = gpio_pin_configure_dt(gpio, GPIO_INPUT);
 		}
 		if (ret != 0) {
-			LOG_ERR("Pin %d configuration failed: %d", i, ret);
+			LOG_ERR("Pin %d (col) configuration failed: %d", i, ret);
 			return ret;
 		}
 	}
@@ -223,7 +223,7 @@ static int gpio_kbd_matrix_init(const struct device *dev)
 
 		ret = gpio_pin_configure_dt(gpio, GPIO_INPUT);
 		if (ret != 0) {
-			LOG_ERR("Pin %d configuration failed: %d", i, ret);
+			LOG_ERR("Pin %d (row) configuration failed: %d", i, ret);
 			return ret;
 		}
 
